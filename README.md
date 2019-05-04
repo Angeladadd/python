@@ -1,2 +1,2 @@
-＃python
+
 A simple game
